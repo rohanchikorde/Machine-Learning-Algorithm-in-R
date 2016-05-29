@@ -1,4 +1,4 @@
-## decision tree algorithm:
+## Decision tree algorithm:
 
 ## credit data set
 
